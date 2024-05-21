@@ -3,7 +3,7 @@ This project aims to explore the relationship between NBA players' ages and thei
 Overview
 The primary goal of this project is to build a predictive model that can estimate a player's points per game based on their age and potentially other relevant features. Linear regression is employed as the main modeling technique, leveraging popular Python libraries such as scikit-learn, pandas, seaborn, and matplotlib.
 
-Data
+
 The dataset used in this analysis is the "2023-2024 NBA Player Stats - Regular" dataset from Kaggle, which can be found below. It contains various player statistics from the 2023-2024 NBA season, including age, points per game, minutes played, position, team, and previous season statistics (if available). The data has been preprocessed to handle missing values, remove outliers, and encode categorical variables into a numerical format suitable for linear regression.
 Dataset: https://www.kaggle.com/datasets/vivovinco/2023-2024-nba-player-stats?resource=download&select=2023-2024+NBA+Player+Stats+-+Regular.csv
 
