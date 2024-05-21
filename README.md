@@ -1,4 +1,6 @@
 NBA Player Age vs. Points Per Game Analysis
+
+
 This project aims to explore the relationship between NBA players' ages and their points per game (PPG) statistics using machine learning techniques. The analysis is performed on data from the 2023-2024 NBA season.
 Overview
 The primary goal of this project is to build a predictive model that can estimate a player's points per game based on their age and potentially other relevant features. Linear regression is employed as the main modeling technique, leveraging popular Python libraries such as scikit-learn, pandas, seaborn, and matplotlib.
